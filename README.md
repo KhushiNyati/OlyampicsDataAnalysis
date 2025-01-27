@@ -8,23 +8,23 @@ Features
    
    Exploratory Data Analysis (EDA):
   
-       Medal trends over the years.
+   • Medal trends over the years.
        
-       Country-wise and athlete-wise performance analysis.
+   • Country-wise and athlete-wise performance analysis.
 
-       Gender-based participation trends.
+   • Gender-based participation trends.
 
   Visualization:
   
-       Medal counts by year, country, and sports.
+   •  Medal counts by year, country, and sports.
        
-       Participation trends visualized using line charts, bar graphs, and heatmaps.
+   •  Participation trends visualized using line charts, bar graphs, and heatmaps.
        
   Key Insights:
   
-      Identifying the most successful countries and athletes.
+   • Identifying the most successful countries and athletes.
       
-      Analyzing the growth of the Olympics over time.
+   • Analyzing the growth of the Olympics over time.
 
 DataSet Link = https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
